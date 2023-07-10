@@ -31,8 +31,8 @@
   <h2 id="usage">Usage</h2>
 
   <ol>
-    <code><li>Run the program by executing the `Triforce.java` file.</li>
-    <li>A window will open displaying the Triforce shape.</li></code>
+    <li>Run the program by executing the `Triforce.java` file.</li>
+    <li>A window will open displaying the Triforce.</li>
   </ol>
 
 <!--  <h2 id="screenshot">Screenshot</h2> -->
