@@ -21,6 +21,10 @@
     &copy; 2023 Ryan Hatch<br>
     All Rights Reserved.
   </p>
+  
+<p align="center">
+  <img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce">
+</p>
 
   <h2 id="description">Description</h2>
 
