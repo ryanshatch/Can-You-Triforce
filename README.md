@@ -10,9 +10,10 @@
   <p align="center">
     <a href="#description">Description</a> •
     <a href="#usage">Usage</a> •
+    <a href="#license">License</a>
+    
 <!--    <a href="#screenshot">Screenshot</a> • -->
 <!--    <a href="#contributing">Contributing</a> • -->
-    <a href="#license">License</a>
   </p>
 
   <hr>
