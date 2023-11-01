@@ -1,0 +1,3 @@
+﻿  triforce.cpp
+C:\Users\rshat\Desktop\code\New Code\Can-You-Even-Triforce\C++\triforce\triforce.cpp(55,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  triforce.vcxproj -> C:\Users\rshat\Desktop\code\New Code\Can-You-Even-Triforce\C++\triforce\x64\Debug\triforce.exe
