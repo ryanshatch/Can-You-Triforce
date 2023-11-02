@@ -66,7 +66,7 @@
   </p>
 
   <p>
-    <code>twoweekmusicbit@gmail.com</code>
+    <code>ryan@rshatch.com</code>
   </p>
 
   <p>
