@@ -30,14 +30,14 @@
   <h2 id="description">Description</h2>
 
   <p>
-    This is a series of applications in both java and python that will design and draw out a beautiful Triforce.
+    This is a series of applications programmed in Python, Java, and C++ that will design and draw out a Triforce.
   </p>
 
   <h2 id="usage">Usage</h2>
 
   <ol>
-    <li>Run the program by executing the <code>Triforce._</code> file in <code>.java</code> or <code>.py</code></li>
-    <li>A window will open displaying a beatiful and perfect Triforce.</li>
+    <li>Run the program by executing the <code>Triforce._</code> file via <code>.py</code> , <code>.java</code> , or <code>.cpp</code></li>
+    <li>A window will open displaying a perfect Triforce.</li>
   </ol>
 
 <!--  <h2 id="screenshot">Screenshot</h2> -->
@@ -71,7 +71,7 @@
   </p>
 
   <p>
-    <code>ryanshatch@gmail.com</code>
+    <code>ryan@rshatch.com</code>
   </p>
 
   <p>
